@@ -1,3 +1,13 @@
+# Algorithms with Predictions — research-index fork
+
+This repository is a fork of the community-maintained [Algorithms with Predictions (ALPS) website](https://github.com/algorithms-with-predictions/algorithms-with-predictions.github.io). It is a contribution workspace for the shared research bibliography, not an independently authored research system.
+
+The site turns paper metadata in `papers/` into a searchable Gatsby website. For research readers, the YAML bibliography is the main entry point; for contributors, the upstream guide below describes adding papers and running the site locally.
+
+Authorship and credit belong to the upstream community and the individual contributions recorded in Git history. The original instructions are preserved below.
+
+---
+
 # Website for Algorithms with Predictions (ALPS)
 
 The idea of this project is to maintain an overview over the current state of research on Algorithms with Predictions and collect links to further relevant material. This should especially help new researchers in this field to orient faster, but we also try to keep track over and cluster the large amount of results and publications in this field.
